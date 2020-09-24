@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	background-color: #a9d7e9;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+div{
+	background-color: #f3f3f3;
+	margin-left:auto;
+	margin-right: auto;
+	border-radius: 10px;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+input{
+
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	border-style: groove;
+	border-color: gray;
+}
+
+.submit{ background-color: #6ba2ce; color: white; font-family:'Playfair Display', serif; font size: 20px; }
